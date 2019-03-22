@@ -1,0 +1,7 @@
+Z:\17PW29\SEM4\Windows Lab\Package\Snake\Snake\obj\x86\Debug\Snake.Form1.resources
+Z:\17PW29\SEM4\Windows Lab\Package\Snake\Snake\obj\x86\Debug\Snake.Properties.Resources.resources
+Z:\17PW29\SEM4\Windows Lab\Package\Snake\Snake\obj\x86\Debug\Snake.csproj.GenerateResource.Cache
+Z:\17PW29\SEM4\Windows Lab\Package\Snake\Snake\bin\Debug\Snake.exe
+Z:\17PW29\SEM4\Windows Lab\Package\Snake\Snake\bin\Debug\Snake.pdb
+Z:\17PW29\SEM4\Windows Lab\Package\Snake\Snake\obj\x86\Debug\Snake.exe
+Z:\17PW29\SEM4\Windows Lab\Package\Snake\Snake\obj\x86\Debug\Snake.pdb
