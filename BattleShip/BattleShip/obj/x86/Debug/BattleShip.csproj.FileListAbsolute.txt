@@ -1,0 +1,8 @@
+C:\Users\Rahol\documents\visual studio 2010\Projects\BattleShip\BattleShip\obj\x86\Debug\BattleShip.csprojResolveAssemblyReference.cache
+C:\Users\Rahol\documents\visual studio 2010\Projects\BattleShip\BattleShip\obj\x86\Debug\BattleShip.Form1.resources
+C:\Users\Rahol\documents\visual studio 2010\Projects\BattleShip\BattleShip\obj\x86\Debug\BattleShip.Properties.Resources.resources
+C:\Users\Rahol\documents\visual studio 2010\Projects\BattleShip\BattleShip\obj\x86\Debug\BattleShip.csproj.GenerateResource.Cache
+C:\Users\Rahol\documents\visual studio 2010\Projects\BattleShip\BattleShip\bin\Debug\BattleShip.exe
+C:\Users\Rahol\documents\visual studio 2010\Projects\BattleShip\BattleShip\bin\Debug\BattleShip.pdb
+C:\Users\Rahol\documents\visual studio 2010\Projects\BattleShip\BattleShip\obj\x86\Debug\BattleShip.exe
+C:\Users\Rahol\documents\visual studio 2010\Projects\BattleShip\BattleShip\obj\x86\Debug\BattleShip.pdb
