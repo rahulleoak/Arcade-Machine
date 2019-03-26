@@ -1,0 +1,7 @@
+c:\users\rahol\documents\visual studio 2010\Projects\Arcade Machine\Arcade Machine\bin\Debug\Arcade Machine.exe
+c:\users\rahol\documents\visual studio 2010\Projects\Arcade Machine\Arcade Machine\bin\Debug\Arcade Machine.pdb
+c:\users\rahol\documents\visual studio 2010\Projects\Arcade Machine\Arcade Machine\obj\x86\Debug\Arcade_Machine.Form1.resources
+c:\users\rahol\documents\visual studio 2010\Projects\Arcade Machine\Arcade Machine\obj\x86\Debug\Arcade_Machine.Properties.Resources.resources
+c:\users\rahol\documents\visual studio 2010\Projects\Arcade Machine\Arcade Machine\obj\x86\Debug\Arcade Machine.csproj.GenerateResource.Cache
+c:\users\rahol\documents\visual studio 2010\Projects\Arcade Machine\Arcade Machine\obj\x86\Debug\Arcade Machine.exe
+c:\users\rahol\documents\visual studio 2010\Projects\Arcade Machine\Arcade Machine\obj\x86\Debug\Arcade Machine.pdb
