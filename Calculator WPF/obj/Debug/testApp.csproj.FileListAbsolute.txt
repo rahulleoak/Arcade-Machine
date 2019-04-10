@@ -1,0 +1,50 @@
+C:\Users\smevis\Desktop\newRoomManager - Copy (2)\testApp\obj\Debug\testApp.csprojResolveAssemblyReference.cache
+C:\Users\smevis\Desktop\newRoomManager - Copy (2)\testApp\obj\Debug\MainWindow.baml
+C:\Users\smevis\Desktop\newRoomManager - Copy (2)\testApp\obj\Debug\MainWindow.g.cs
+C:\Users\smevis\Desktop\newRoomManager - Copy (2)\testApp\obj\Debug\App.g.cs
+C:\Users\smevis\Desktop\newRoomManager - Copy (2)\testApp\obj\Debug\testApp.csproj.GenerateResource.Cache
+C:\Users\smevis\Desktop\newRoomManager - Copy (2)\testApp\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\smevis\Desktop\newRoomManager - Copy (2)\testApp\bin\Debug\Calculator.exe.config
+C:\Users\smevis\Desktop\newRoomManager - Copy (2)\testApp\bin\Debug\Calculator.exe.manifest
+C:\Users\smevis\Desktop\newRoomManager - Copy (2)\testApp\bin\Debug\Calculator.application
+C:\Users\smevis\Desktop\newRoomManager - Copy (2)\testApp\bin\Debug\Calculator.exe
+C:\Users\smevis\Desktop\newRoomManager - Copy (2)\testApp\bin\Debug\Calculator.pdb
+C:\Users\smevis\Desktop\newRoomManager - Copy (2)\testApp\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\smevis\Desktop\newRoomManager - Copy (2)\testApp\obj\Debug\Calculator.g.resources
+C:\Users\smevis\Desktop\newRoomManager - Copy (2)\testApp\obj\Debug\Calculator.exe.manifest
+C:\Users\smevis\Desktop\newRoomManager - Copy (2)\testApp\obj\Debug\Calculator.application
+C:\Users\smevis\Desktop\newRoomManager - Copy (2)\testApp\obj\Debug\Calculator.exe
+C:\Users\smevis\Desktop\newRoomManager - Copy (2)\testApp\obj\Debug\Calculator.pdb
+C:\Users\SabriM\Desktop\testApp\bin\Debug\Calculator.exe.config
+C:\Users\SabriM\Desktop\testApp\obj\Debug\Calculator.exe
+C:\Users\SabriM\Desktop\testApp\obj\Debug\Calculator.pdb
+C:\Users\SabriM\Desktop\testApp\bin\Debug\Calculator.exe.manifest
+C:\Users\SabriM\Desktop\testApp\bin\Debug\Calculator.application
+C:\Users\SabriM\Desktop\testApp\bin\Debug\Calculator.exe
+C:\Users\SabriM\Desktop\testApp\bin\Debug\Calculator.pdb
+C:\Users\SabriM\Desktop\testApp\obj\Debug\testApp.csprojResolveAssemblyReference.cache
+C:\Users\SabriM\Desktop\testApp\obj\Debug\MainWindow.baml
+C:\Users\SabriM\Desktop\testApp\obj\Debug\MainWindow.g.cs
+C:\Users\SabriM\Desktop\testApp\obj\Debug\App.g.cs
+C:\Users\SabriM\Desktop\testApp\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\SabriM\Desktop\testApp\obj\Debug\Calculator.g.resources
+C:\Users\SabriM\Desktop\testApp\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\SabriM\Desktop\testApp\obj\Debug\testApp.csproj.GenerateResource.Cache
+C:\Users\SabriM\Desktop\testApp\obj\Debug\Calculator.exe.manifest
+C:\Users\SabriM\Desktop\testApp\obj\Debug\Calculator.application
+C:\Users\SabriM\Desktop\Work\testApp\bin\Debug\Calculator.exe.config
+C:\Users\SabriM\Desktop\Work\testApp\obj\Debug\Calculator.exe
+C:\Users\SabriM\Desktop\Work\testApp\obj\Debug\Calculator.pdb
+C:\Users\SabriM\Desktop\Work\testApp\bin\Debug\Calculator.exe.manifest
+C:\Users\SabriM\Desktop\Work\testApp\bin\Debug\Calculator.application
+C:\Users\SabriM\Desktop\Work\testApp\bin\Debug\Calculator.exe
+C:\Users\SabriM\Desktop\Work\testApp\bin\Debug\Calculator.pdb
+C:\Users\SabriM\Desktop\Work\testApp\obj\Debug\MainWindow.baml
+C:\Users\SabriM\Desktop\Work\testApp\obj\Debug\MainWindow.g.cs
+C:\Users\SabriM\Desktop\Work\testApp\obj\Debug\App.g.cs
+C:\Users\SabriM\Desktop\Work\testApp\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\SabriM\Desktop\Work\testApp\obj\Debug\Calculator.g.resources
+C:\Users\SabriM\Desktop\Work\testApp\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\SabriM\Desktop\Work\testApp\obj\Debug\testApp.csproj.GenerateResource.Cache
+C:\Users\SabriM\Desktop\Work\testApp\obj\Debug\Calculator.exe.manifest
+C:\Users\SabriM\Desktop\Work\testApp\obj\Debug\Calculator.application

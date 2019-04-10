@@ -1,0 +1,16 @@
+C:\Users\SabriM\Desktop\Work\testApp\bin\Release\Calculator.exe.config
+C:\Users\SabriM\Desktop\Work\testApp\bin\Release\Calculator.exe.manifest
+C:\Users\SabriM\Desktop\Work\testApp\bin\Release\Calculator.application
+C:\Users\SabriM\Desktop\Work\testApp\bin\Release\Calculator.exe
+C:\Users\SabriM\Desktop\Work\testApp\bin\Release\Calculator.pdb
+C:\Users\SabriM\Desktop\Work\testApp\obj\Release\MainWindow.baml
+C:\Users\SabriM\Desktop\Work\testApp\obj\Release\MainWindow.g.cs
+C:\Users\SabriM\Desktop\Work\testApp\obj\Release\App.g.cs
+C:\Users\SabriM\Desktop\Work\testApp\obj\Release\Calculator_MarkupCompile.cache
+C:\Users\SabriM\Desktop\Work\testApp\obj\Release\Calculator.g.resources
+C:\Users\SabriM\Desktop\Work\testApp\obj\Release\Calculator.Properties.Resources.resources
+C:\Users\SabriM\Desktop\Work\testApp\obj\Release\testApp.csproj.GenerateResource.Cache
+C:\Users\SabriM\Desktop\Work\testApp\obj\Release\Calculator.exe.manifest
+C:\Users\SabriM\Desktop\Work\testApp\obj\Release\Calculator.application
+C:\Users\SabriM\Desktop\Work\testApp\obj\Release\Calculator.exe
+C:\Users\SabriM\Desktop\Work\testApp\obj\Release\Calculator.pdb
