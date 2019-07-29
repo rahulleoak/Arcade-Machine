@@ -1,2 +1,2 @@
 # Arcade-Machine
-Small C# Project to replicate (or try too) some mobile/arcade games
+Small C# Project to mirror some mobile/arcade games
